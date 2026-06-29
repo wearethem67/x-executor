@@ -1,2 +1,2 @@
 @echo off
-python NEOWARE.py
+python xexecutor.py
